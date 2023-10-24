@@ -1,0 +1,1017 @@
+﻿Date,Time,Activity,How I feel,Duration,Value,Location,Activity Type
+10/9/2023,12:00:00 AM,Sleep,Tired,5:45:00,High,Home,Sleep
+10/9/2023,5:45:00 AM,Prepare for F2F Class,Sleepy,0:45:00,Medium,Home,Self-Care
+10/9/2023,6:30:00 AM,Commute,Tired,0:45:00,Low,Others,Travel
+10/9/2023,7:15:00 AM,Wait for classes to start,Bored,0:15:00,Low,School,School
+10/9/2023,7:30:00 AM,Attend IT 365 F2F Class,Focused,2:30:00,High,School,School
+10/9/2023,10:00:00 AM,Eat Lunch,Happy,1:00:00,High,School,Self-Care
+10/9/2023,11:00:00 AM,Go to the Library,Happy,2:00:00,Medium,School,School
+10/9/2023,1:00:00 PM,Attend CSIT 321 F2F Class,Happy,2:00:00,High,School,School
+10/9/2023,3:00:00 PM,Attend Rizal F2F Class,Happy,1:30:00,High,School,School
+10/9/2023,4:30:00 PM,Commute,Tired,1:00:00,Low,Others,Travel
+10/9/2023,5:30:00 PM,Rest,Happy,2:00:00,Low,Home,Sleep
+10/9/2023,7:30:00 PM,Eat Dinner,Happy,0:45:00,High,Home,Self-Care
+10/9/2023,8:15:00 PM,Make IT 365 Assignment,Focused,2:30:00,High,Home,School
+10/9/2023,10:45:00 PM,Social Media Break,Happy,1:00:00,Low,Home,Leisure
+10/9/2023,11:45:00 PM,Night Routine,Sleepy,0:15:00,Low,Home,Self-Care
+10/10/2023,12:00:00 AM,Sleep,Sleepy,7:00:00,High,Home,Sleep
+10/10/2023,7:00:00 AM,Prepare for Online Class,Tired,0:30:00,Medium,Home,Self-Care
+10/10/2023,7:30:00 AM,Attend CSIT 327 Online Class,Focused,2:30:00,High,Home,School
+10/10/2023,10:00:00 AM,Social Media Break,Happy,0:30:00,Low,Home,Leisure
+10/10/2023,10:30:00 AM,Attend IT 317 Online Class,Focused,1:30:00,High,Home,School
+10/10/2023,12:00:00 PM,Social Media Break,Hungry,0:15:00,Low,Home,Leisure
+10/10/2023,12:15:00 PM,Eat Brunch,Hungry,0:45:00,Medium,Home,Self-Care
+10/10/2023,1:00:00 PM,Nap,Sleepy,0:30:00,Low,Home,Sleep
+10/10/2023,1:30:00 PM,Prepare for F2F Class,Tired,0:30:00,Medium,Home,Self-Care
+10/10/2023,2:00:00 PM,Commute,Bored,1:00:00,Low,Others,Travel
+10/10/2023,3:00:00 PM,Wait for classes to start,Dull,0:30:00,Low,School,School
+10/10/2023,3:30:00 PM,Attend CSIT 340 F2F Class,Focused,2:30:00,High,School,School
+10/10/2023,6:00:00 PM,Commute,Tired,1:30:00,Low,Others,Travel
+10/10/2023,7:30:00 PM,Eat Dinner,Hungry,0:30:00,High,Others,Self-Care
+10/10/2023,8:00:00 PM,Rest,Tired,1:00:00,Low,Home,Sleep
+10/10/2023,9:00:00 PM,Group meeting,Curious,3:00:00,Medium,Home,School
+10/11/2023,12:00:00 AM,Night Routine,Tired,0:15:00,Low,Home,Self-Care
+10/11/2023,12:15:00 AM,Social Media Break,Dull,0:15:00,Low,Home,Leisure
+10/11/2023,12:30:00 AM,Sleep,Tired,7:00:00,High,Home,Sleep
+10/11/2023,7:30:00 AM,Social Media Break,Bored,1:00:00,Low,Home,Leisure
+10/11/2023,8:30:00 AM,Prepare for a school meetup,Happy,1:30:00,Medium,Home,Self-Care
+10/11/2023,10:00:00 AM,Commute,Excited,1:00:00,Low,Others,Travel
+10/11/2023,11:00:00 AM,Eat Lunch,Happy,1:00:00,High,Others,Self-Care
+10/11/2023,12:00:00 PM,Commute,Happy,0:15:00,Low,Others,Travel
+10/11/2023,12:15:00 PM,Help a friend with org work,Focused,3:45:00,Medium,Others,Social
+10/11/2023,4:00:00 PM,Eat Snacks,Hungry,0:30:00,Medium,Others,Self-Care
+10/11/2023,4:30:00 PM,Commute,Sleepy,1:15:00,Low,Others,Travel
+10/11/2023,5:45:00 PM,Rest,Tired,0:45:00,Low,Home,Sleep
+10/11/2023,6:30:00 PM,Eat Dinner,Hungry,0:30:00,High,Home,Self-Care
+10/11/2023,7:00:00 PM,Make IT 365 Assignment,Focused,1:30:00,High,Home,School
+10/11/2023,8:30:00 PM,Social Media Break,Bored,1:30:00,Low,Home,Leisure
+10/11/2023,10:00:00 PM,Gaming,Focused,2:00:00,Low,Home,Leisure
+10/12/2023,12:00:00 AM,Night Routine,Tired,0:15:00,Low,Home,Self-Care
+10/12/2023,12:15:00 AM,Social Media Break,Sleepy,0:45:00,Low,Home,Leisure
+10/12/2023,1:00:00 AM,Sleep,Tired,6:00:00,High,Home,Sleep
+10/12/2023,7:00:00 AM,Prepare for Online Class,Sleepy,0:30:00,Medium,Home,Self-Care
+10/12/2023,7:30:00 AM,Attend CSIT 327 Online Class,Curious,2:30:00,High,Home,School
+10/12/2023,10:00:00 AM,Eat Breakfast,Hungry,0:30:00,High,Home,Self-Care
+10/12/2023,10:30:00 AM,Attend IT 317 Online Class,Focused,1:30:00,High,Home,Self-Care
+10/12/2023,12:00:00 PM,Social Media Break,Dull,1:00:00,Low,Home,Leisure
+10/12/2023,1:00:00 PM,Rest,Sleepy,0:30:00,Low,Home,Sleep
+10/12/2023,1:30:00 PM,Prepare for F2F Class,Anxious,0:30:00,Medium,Home,Self-Care
+10/12/2023,2:00:00 PM,Commute,Bored,1:00:00,Low,Others,Travel
+10/12/2023,3:00:00 PM,Group meeting,Focused,0:45:00,High,School,School
+10/12/2023,3:45:00 PM,Attend CSIT 340 F2F Class,Happy,2:15:00,High,School,School
+10/12/2023,6:00:00 PM,Commute,Hungry,1:00:00,Low,Others,Travel
+10/12/2023,7:00:00 PM,Eat Dinner,Happy,2:30:00,High,Others,Self-Care
+10/12/2023,9:30:00 PM,Walk Home,Happy,0:30:00,Low,Others,Travel
+10/12/2023,10:00:00 PM,Rest,Tired,0:30:00,Low,Home,Sleep
+10/12/2023,10:30:00 PM,Gaming,Happy,1:30:00,Low,Home,Leisure
+10/13/2023,12:00:00 AM,Night Routine,Tired,0:15:00,Low,Home,Self-Care
+10/13/2023,12:15:00 AM,Social Media Break,Sleepy,0:45:00,Low,Home,Leisure
+10/13/2023,1:00:00 AM,Sleep,Tired,6:30:00,High,Home,Sleep
+10/13/2023,7:30:00 AM,Prepare for Asynchronous Class,Dull,2:00:00,Medium,Home,Self-Care
+10/13/2023,9:30:00 AM,Prepare for F2F Class,Bored,1:00:00,Medium,Home,Self-Care
+10/13/2023,10:30:00 AM,Commute,Sleepy,1:00:00,Low,Others,Travel
+10/13/2023,11:30:00 AM,Group meeting,Curious,1:30:00,High,School,School
+10/13/2023,1:00:00 PM,Attend CSIT 321 F2F Class,Happy,2:00:00,High,School,School
+10/13/2023,3:00:00 PM,Attend Techno Consultation,Nervous,2:00:00,High,School,School
+10/13/2023,5:00:00 PM,Wait for rain to stop,Sleepy,0:30:00,Low,School,Social
+10/13/2023,5:30:00 PM,Commute,Bored,1:00:00,Low,Others,Travel
+10/13/2023,6:30:00 PM,Rest,Hungry,1:00:00,Low,Home,Sleep
+10/13/2023,7:30:00 PM,Eat Dinner,Happy,2:00:00,High,Home,Self-Care
+10/13/2023,9:30:00 PM,Go to the Airport,Excited,0:45:00,Low,Others,Travel
+10/13/2023,10:15:00 PM,Commute,Tired,1:15:00,Low,Others,Travel
+10/13/2023,11:30:00 PM,Night Routine,Sleepy,0:15:00,Low,Home,Self-Care
+10/13/2023,11:45:00 PM,Social Media Break,Bored,0:45:00,Low,Home,Leisure
+10/14/2023,12:30:00 AM,Sleep,Happy,7:00:00,High,Home,Sleep
+10/14/2023,7:30:00 AM,Social Media Break,Happy,0:45:00,Low,Home,Leisure
+10/14/2023,8:15:00 AM,Do Laundry,Focused,0:45:00,Medium,Home,Errands
+10/14/2023,9:00:00 AM,Attend Techno Consultation,Dull,1:00:00,High,Home,School
+10/14/2023,10:00:00 AM,Prepare for IT 365 Presentation,Focused,3:30:00,High,Home,School
+10/14/2023,1:30:00 PM,Rest,Sleepy,2:00:00,Low,Home,Sleep
+10/14/2023,3:30:00 PM,Eat Brunch,Hungry,0:45:00,High,Home,Self-Care
+10/14/2023,4:15:00 PM,Social Media Break,Bored,0:15:00,Low,Home,Leisure
+10/14/2023,4:30:00 PM,Prepare for IT 365 Presentation,Focused,8:45:00,High,Home,School
+10/15/2023,1:15:00 AM,Night Routine,Tired,0:15:00,Low,Home,Self-Care
+10/15/2023,1:30:00 AM,Sleep,Tired,6:30:00,High,Home,Sleep
+10/15/2023,8:00:00 AM,Eat Breakfast,Hungry,0:45:00,High,Home,Self-Care
+10/15/2023,8:45:00 AM,Prepare for IT 365 Presentation,Focused,6:45:00,High,Home,School
+10/15/2023,3:30:00 PM,Rest,Tired,1:30:00,Low,Home,Sleep
+10/15/2023,5:00:00 PM,Prepare for IT 365 Presentation,Tired,5:00:00,High,Home,School
+10/15/2023,10:00:00 PM,Eat Dinner,Hungry,0:30:00,High,Home,Self-Care
+10/15/2023,10:30:00 PM,Study for CSIT 321 Midterm Exam,Focused,1:30:00,High,Home,School
+10/16/2023,12:00:00 AM,Night Routine,Sleepy,0:15:00,Low,Home,Self-Care
+10/16/2023,12:15:00 AM,Social Media Break,Sleepy,0:15:00,Low,Home,Leisure
+10/16/2023,12:30:00 AM,Sleep,Tired,5:00:00,High,Home,Sleep
+10/16/2023,5:30:00 AM,Prepare for F2F Class,Dull,1:00:00,Medium,Home,Self-Care
+10/16/2023,6:30:00 AM,Commute,Sleepy,1:00:00,Low,Others,Travel
+10/16/2023,7:30:00 AM,Attend IT 365 F2F Class,Nervous,2:30:00,High,School,School
+10/16/2023,10:00:00 AM,Eat Lunch,Happy,1:30:00,High,School,Self-Care
+10/16/2023,11:30:00 AM,Study for CSIT 321 Midterm Exam,Focused,1:30:00,High,School,School
+10/16/2023,1:00:00 PM,Attend CSIT 321 F2F Class,Nervous,2:00:00,High,School,School
+10/16/2023,3:00:00 PM,Attend Rizal F2F Class,Focused,1:30:00,High,School,School
+10/16/2023,4:30:00 PM,Prepare For IT 317 Presentation,Focused,1:30:00,High,School,School
+10/16/2023,6:00:00 PM,Commute,Tired,1:30:00,Low,Others,Travel
+10/16/2023,7:30:00 PM,Eat Dinner,Tired,0:15:00,High,Others,Self-Care
+10/16/2023,7:45:00 PM,Walk Home,Tired,1:00:00,Low,Others,Travel
+10/16/2023,8:45:00 PM,Do Laundry,Tired,0:15:00,Medium,Home,Errands
+10/16/2023,9:00:00 PM,Social Media Break,Sleepy,0:30:00,Low,Home,Leisure
+10/16/2023,9:30:00 PM,Prepare For IT 317 Presentation,Tired,2:15:00,High,Home,School
+10/16/2023,11:45:00 PM,Night Routine,Sleepy,0:15:00,Low,Home,Self-Care
+10/17/2023,12:00:00 AM,Sleep,Tired,7:00:00,High,Home,Sleep
+10/17/2023,7:00:00 AM,Prepare for Online Class,Focused,0:30:00,Medium,Home,School
+10/17/2023,7:30:00 AM,Attend CSIT 327 Online Class,Focused,1:00:00,High,Home,School
+10/17/2023,8:30:00 AM,Eat Breakfast,Happy,0:30:00,High,Home,Self-Care
+10/17/2023,9:00:00 AM,Rest,Sleepy,1:15:00,Low,Home,Sleep
+10/17/2023,10:15:00 AM,Social Media Break,Bored,0:15:00,Low,Home,Leisure
+10/17/2023,10:30:00 AM,Attend IT 317 Online Class,Focused,1:30:00,High,Home,School
+10/17/2023,12:00:00 PM,Social Media Break,Bored,1:00:00,Low,Home,Leisure
+10/17/2023,1:00:00 PM,Rest,Sleepy,2:00:00,Low,Home,Sleep
+10/17/2023,3:00:00 PM,General Cleaning,Happy,1:30:00,High,Home,Errands
+10/17/2023,4:30:00 PM,Rest,Tired,2:00:00,Low,Home,Sleep
+10/17/2023,6:30:00 PM,Fold Laundry,Happy,1:00:00,Medium,Home,Errands
+10/17/2023,7:30:00 PM,Social Media Break,Amused,1:00:00,Low,Home,Leisure
+10/17/2023,8:30:00 PM,Eat Dinner,Bored,0:30:00,High,Home,Self-Care
+10/17/2023,9:00:00 PM,Rest,Bored,1:30:00,Low,Home,Sleep
+10/17/2023,10:30:00 PM,Social Media Break,Bored,1:15:00,Low,Home,Leisure
+10/17/2023,11:45:00 PM,Night Routine,Sleepy,0:15:00,Low,Home,Self-Care
+10/18/2023,12:00:00 AM,Sleep,Tired,7:30:00,High,Home,Sleep
+10/18/2023,7:30:00 AM,Eat Breakfast,Dull,1:00:00,High,Home,Self-Care
+10/18/2023,8:30:00 AM,Rest,Happy,1:00:00,Low,Home,Sleep
+10/18/2023,9:30:00 AM,Social Media Break,Happy,0:30:00,Low,Home,Leisure
+10/18/2023,10:00:00 AM,Group meeting,Focused,3:00:00,High,Home,School
+10/18/2023,1:00:00 PM,Eat Lunch,Happy,0:30:00,High,Home,Self-Care
+10/18/2023,1:30:00 PM,Group meeting,Focused,3:00:00,High,Home,School
+10/18/2023,4:30:00 PM,Rest,Sleepy,2:00:00,Low,Home,Sleep
+10/18/2023,6:30:00 PM,Clean my room,Focused,1:00:00,High,Home,Errands
+10/18/2023,7:30:00 PM,Rest,Tired,0:30:00,Low,Home,Sleep
+10/18/2023,8:00:00 PM,Buy Groceries,Hungry,1:00:00,Medium,Others,Errands
+10/18/2023,9:00:00 PM,Eat Dinner,Happy,0:30:00,High,Others,Self-Care
+10/18/2023,9:30:00 PM,Study for CSIT 340 Midterm Exam,Focused,2:00:00,High,Home,School
+10/18/2023,11:30:00 PM,Night Routine,Sleepy,0:15:00,Low,Home,Self-Care
+10/18/2023,11:45:00 PM,Social Media Break,Sleepy,1:45:00,Low,Home,Leisure
+10/19/2023,1:30:00 AM,Sleep,Tired,5:30:00,High,Home,Sleep
+10/19/2023,7:00:00 AM,Prepare for Online Class,Dull,0:30:00,Medium,Home,Self-Care
+10/19/2023,7:30:00 AM,Study for IT 317 Midterm Exam,Focused,3:00:00,High,Home,School
+10/19/2023,10:30:00 AM,Attend IT 317 Online Class,Curious,1:30:00,High,Home,School
+10/19/2023,12:00:00 PM,Study for CSIT 340 Midterm Exam,Focused,1:15:00,High,Home,School
+10/19/2023,1:15:00 PM,Prepare for F2F Class,Nervous,1:15:00,Medium,Home,Self-Care
+10/19/2023,2:30:00 PM,Commute,Tired,1:00:00,Low,Others,Travel
+10/19/2023,3:30:00 PM,Attend CSIT 340 F2F Class,Focused,2:30:00,High,School,School
+10/19/2023,6:00:00 PM,Walk with Friends,Happy,0:30:00,Low,Others,Social
+10/19/2023,6:30:00 PM,Eat Dinner,Grateful,2:00:00,High,Others,Self-Care
+10/19/2023,8:30:00 PM,Commute,Happy,0:45:00,Low,Others,Travel
+10/19/2023,9:15:00 PM,Rest,Tired,0:45:00,Low,Home,Sleep
+10/19/2023,10:00:00 PM,Study for IT 365 Midterm Exam,Focused,2:00:00,High,Home,School
+10/19/2023,12:00:00 AM,Night Routine,Sleepy,0:15:00,Low,Home,Self-Care
+10/20/2023,12:15:00 AM,Social Media Break,Sleepy,0:45:00,Low,Home,Leisure
+10/20/2023,1:00:00 AM,Sleep,Tired,4:45:00,High,Home,Sleep
+10/20/2023,5:45:00 AM,Prepare for F2F Class,Sleepy,0:45:00,Medium,Home,Self-Care
+10/20/2023,6:30:00 AM,Commute,Tired,0:30:00,Low,Others,Travel
+10/20/2023,7:00:00 AM,Wait for classes to start,Nervous,1:30:00,Low,School,School
+10/20/2023,8:30:00 AM,Attend IT 365 F2F Class,Nervous,2:00:00,High,School,School
+10/20/2023,10:30:00 AM,Run Errands,Anxious,2:15:00,High,Others,Errands
+10/20/2023,12:45:00 PM,Make Friendship Bracelets,Happy,4:45:00,Low,Home,Social
+10/20/2023,5:30:00 PM,Prepare a night out with friends,Happy,2:00:00,Low,Home,Self-Care
+10/20/2023,7:00:00 PM,Eat Dinner,Happy,0:30:00,High,Others,Self-Care
+10/20/2023,7:30:00 PM,Watch a movie with friends,Happy,3:00:00,Medium,Others,Social
+10/20/2023,10:30:00 PM,Social Media Break,Bored,1:30:00,Low,Home,Leisure
+10/21/2023,12:00:00 AM,Night Routine,Sleepy,0:15:00,Low,Home,Self-Care
+10/21/2023,12:15:00 AM,Social Media Break,Sleepy,1:15:00,Low,Home,Leisure
+10/21/2023,1:30:00 AM,Watch F1 Race,Excited,1:00:00,Low,Home,Leisure
+10/21/2023,2:30:00 AM,Sleep,Tired,5:00:00,High,Home,Sleep
+10/21/2023,7:30:00 AM,Eat Breakfast,Grateful,1:00:00,Medium,Home,Self-Care
+10/21/2023,8:30:00 AM,Hangout with Friends,Happy,5:00:00,Medium,Others,Social
+10/21/2023,1:30:00 PM,Group meeting,Focused,3:00:00,High,Home,School
+10/21/2023,4:30:00 PM,Meetup with a Relative,Nervous,1:00:00,Low,Home,Social
+10/21/2023,5:30:00 PM,Social Media Break,Bored,2:00:00,Low,Home,Leisure
+10/21/2023,7:30:00 PM,Sleep,Tired,4:00:00,High,Home,Sleep
+10/21/2023,11:30:00 PM,Social Media Break,Happy,2:00:00,Low,Home,Leisure
+10/22/2023,1:30:00 AM,Watch F1 Race,Excited,1:00:00,Low,Home,Leisure
+10/22/2023,2:30:00 AM,Prepare for a Flight,Excited,2:15:00,Medium,Home,Self-Care
+10/22/2023,4:45:00 AM,Go to the Airport,Excited,1:00:00,Low,Others,Travel
+10/22/2023,5:45:00 AM,Prepare for Boarding,Excited,1:15:00,Low,Others,Travel
+10/22/2023,7:00:00 AM,Fly to Manila,Excited,1:15:00,Medium,Others,Travel
+10/22/2023,8:15:00 AM,Commute,Hungry,0:45:00,Low,Others,Travel
+10/22/2023,9:00:00 AM,Eat Breakfast,Happy,1:00:00,High,Others,Self-Care
+10/22/2023,10:00:00 AM,Go to IKEA,Excited,3:00:00,Medium,Others,Leisure
+10/22/2023,1:00:00 PM,Eat Lunch,Happy,1:00:00,High,Others,Self-Care
+10/22/2023,2:00:00 PM,Rest,Sleepy,1:00:00,Low,Home,Sleep
+10/22/2023,3:00:00 PM,Prepare for the Show,Excited,1:00:00,Medium,Home,Self-Care
+10/22/2023,4:00:00 PM,Commute,Excited,0:15:00,Low,Others,Travel
+10/22/2023,4:15:00 PM,Wait for the Show to Start,Excited,2:15:00,Medium,Others,Leisure
+10/22/2023,6:30:00 PM,Watch Hamilton,Happy,3:00:00,High,Others,Leisure
+10/22/2023,9:30:00 PM,Commute,Happy,0:30:00,Low,Others,Travel
+10/22/2023,10:00:00 PM,Eat Dinner,Happy,1:00:00,High,Home,Self-Care
+10/22/2023,11:00:00 PM,Sleep,Tired,3:00:00,High,Home,Sleep
+10/23/2023,2:00:00 AM,Prepare for a flight,Tired,0:30:00,Medium,Home,Self-Care
+10/23/2023,2:30:00 AM,Go to the Airport,Tired,0:30:00,Low,Others,Travel
+10/23/2023,3:00:00 AM,Prepare for Boarding,Tired,1:30:00,Low,Others,Leisure
+10/23/2023,4:30:00 AM,Fly to Cebu,Tired,1:15:00,Medium,Others,Travel
+10/23/2023,5:45:00 AM,Commute,Tired,0:30:00,Low,Others,Travel
+10/23/2023,6:15:00 AM,Prepare for F2F Class,Dull,0:15:00,Medium,Home,Self-Care
+10/23/2023,6:30:00 AM,Commute,Sleepy,0:45:00,Low,Others,Travel
+10/23/2023,7:15:00 AM,Wait for classes to start,Dull,0:15:00,Low,School,School
+10/23/2023,7:30:00 AM,Attend IT 365 F2F Class,Focused,0:45:00,High,School,School
+10/23/2023,8:15:00 AM,Make Activity Log,Focused,1:45:00,High,School,School
+10/23/2023,10:00:00 AM,Eat Lunch,Happy,1:30:00,High,School,Self-Care
+10/23/2023,11:30:00 AM,Wait for classes to start,Happy,1:30:00,Low,School,School
+10/23/2023,1:00:00 PM,Attend CSIT 321 F2F Class,Focused,2:00:00,High,School,School
+10/23/2023,3:00:00 PM,Attend Rizal F2F Class,Focused,1:30:00,High,School,School
+10/23/2023,4:30:00 PM,Commute,Tired,1:00:00,Low,Others,Travel
+10/23/2023,5:30:00 PM,Rest,Hungry,1:00:00,Low,Home,Sleep
+10/23/2023,6:30:00 PM,Eat Dinner,Happy,0:45:00,High,Home,Self-Care
+10/23/2023,7:15:00 PM,Make IT 317 Presentation,Focused,3:15:00,High,Home,School
+10/23/2023,10:30:00 PM,Social Media Break,Happy,0:45:00,Low,Home,Leisure
+10/23/2023,11:15:00 PM,Night Routine,Sleepy,0:15:00,Low,Home,Self-Care
+10/23/2023,11:30:00 PM,Social Media Break,Sleepy,0:30:00,Low,Home,Leisure
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
