@@ -44,7 +44,7 @@ if option == 'Amount of Sleep Per Day':
     average_sleep = sleep_per_day['Duration'].mean()
 
     # Add markdown to explain the plot
-    st.markdown(f"### Amount of Sleep Per Day for 2 Weeks\n\nThis plot shows the amount of sleep you had for the past 2 weeks.\n\n")
+    st.markdown(f"### Amount of Sleep Per Day for 2 Weeks\n\nThis plot shows the amount of sleep I had per day for the past 2 weeks.\n\n")
 
     # Plot line chart
     fig2 = px.line(sleep_per_day, x='Date', y='Duration', title='Amount of Sleep Per Day for 2 Weeks')
@@ -52,7 +52,7 @@ if option == 'Amount of Sleep Per Day':
     st.plotly_chart(fig2)
 
     # Add metric to show the average amount of sleep
-    st.metric(label='Average Sleep', value=average_sleep, delta=None)
+    st.markdown(f'<div class="metric">Average Sleep: {average_sleep:.2f} hours</div>', unsafe_allow_html=True)
 
 elif option == 'Location of Time Spent':
     # Group by 'Location' and sum 'Duration'
